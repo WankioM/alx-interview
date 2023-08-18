@@ -1,0 +1,1 @@
+Hey there! So, here's what this code does: It takes a 2D matrix of size n x n and rotates it 90 degrees clockwise. The function prototype is `rotate_2d_matrix(matrix)`, and it operates in-place, meaning it modifies the original matrix directly. Don't worry, the matrix will always have 2 dimensions and won't be empty. Cool, right? 🔄🔀
