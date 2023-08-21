@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" Making changes """
+""" The function returns the fewest number of coins needed to meet the target total.
+If the total is 0 or less, it returns 0.
+If the target total cannot be met with the available coins, it returns -1. """
 
 
 def makeChange(coins, total):
