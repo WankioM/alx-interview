@@ -1,0 +1,2 @@
+# Prime Number Game
+This simple Python program determines the winner of a game played by Maria and Ben. In this game, they take turns choosing prime numbers from a set of consecutive integers starting from 1 up to and including n, removing the chosen number and its multiples from the set. The player who cannot make a move loses the game. The program plays x rounds of the game, where n may vary for each round, and determines the player who wins the most rounds.
